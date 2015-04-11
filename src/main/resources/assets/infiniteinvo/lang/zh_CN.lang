@@ -1,0 +1,18 @@
+#Chinese language file by TunkShif
+language.name=简体中文
+
+infiniteinvo.item.LOCKED=锁
+
+infiniteinvo.unlockslot=解锁格子
+
+achievement.infiniteinvo.baconpriorities=培根优先
+achievement.infiniteinvo.wormdrops=#虫子掉落
+achievement.infiniteinvo.bonesanta=#圣诞骨头
+achievement.infiniteinvo.morespace=更多空间?
+achievement.infiniteinvo.allspace=无底袋
+
+achievement.infiniteinvo.baconpriorities.desc=把背包的每一个格子都放满熟猪肉
+achievement.infiniteinvo.wormdrops.desc=以失败而告终的虫子(需要 Ex Nihilo)
+achievement.infiniteinvo.bonesanta.desc=给你某个玩家的头骨(SMP)
+achievement.infiniteinvo.morespace.desc=解锁一个背包格子
+achievement.infiniteinvo.allspace.desc=解锁所有的背包格子
